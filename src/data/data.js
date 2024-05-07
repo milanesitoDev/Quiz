@@ -1,0 +1,42 @@
+export const data = [
+    {
+      question: "What is the capital of France?",
+      option1: "London",
+      option2: "Paris",
+      option3: "Berlin",
+      option4: "Rome",
+      correctAnswer: 1,
+    },
+    {
+      question: "What is the largest planet in our solar system?",
+      option1: "Mercury",
+      option2: "Venus",
+      option3: "Earth",
+      option4: "Jupiter",
+      correctAnswer: 3, 
+    },
+    {
+      question: "Who was the first person to walk on the moon?",
+      option1: "Yuri Gagarin",
+      option2: "Neil Armstrong",
+      option3: "Buzz Aldrin",
+      option4: "Laika",
+      correctAnswer: 1, 
+    },
+    {
+      question: "What is the chemical symbol for gold?",
+      option1: "Au",
+      option2: "Ag",
+      option3: "Cu",
+      option4: "Fe",
+      correctAnswer:0, 
+    },
+    {
+      question: "What is the largest ocean on Earth?",
+      option1: "Atlantic Ocean",
+      option2: "Pacific Ocean",
+      option3: "Indian Ocean",
+      option4: "Arctic Ocean",
+      correctAnswer: 1,
+    },
+  ];
